@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:wordle/pages/HomePage.dart';
 import 'package:wordle/pages/SplashPage.dart';
 
 void main() {
